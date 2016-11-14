@@ -6,7 +6,11 @@ buildscript {
     }
     dependencies {
         classpath 'com.android.tools.build:gradle:2.2.1'
+<<<<<<< HEAD
         classpath 'com.github.dcendents:android-maven-gradle-plugin:1.5'
+=======
+        classpath 'com.novoda:bintray-release:0.3.4'
+>>>>>>> 509b631cea72c7b7c585fb6117187bda121c942b
     }
 }
 
